@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df4fb59e.css",
+    "main.js": "/static/js/main.fc341bd6.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/slider-1.png": "/static/media/slider-1.7a9ba8117540f3d0c291.png",
+    "static/media/thiv_level-logo-2.png": "/static/media/thiv_level-logo-2.c22491bf3519cae9d0a0.png",
+    "static/media/thiv_level-logo_2-no_tagline.png": "/static/media/thiv_level-logo_2-no_tagline.541f73928e1192899382.png",
+    "static/media/404-not_found.png": "/static/media/404-not_found.0d27c381fd68f587267d.png",
+    "static/media/in-stock.png": "/static/media/in-stock.cb8be803b00ebb1ddefe.png",
+    "static/media/sold-out-1.png": "/static/media/sold-out-1.ca2350f4e6742259d808.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/cart.svg": "/static/media/cart.03a706e9d6046b4ad90dd2af5508a635.svg",
+    "main.df4fb59e.css.map": "/static/css/main.df4fb59e.css.map",
+    "main.fc341bd6.js.map": "/static/js/main.fc341bd6.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4fb59e.css",
+    "static/js/main.fc341bd6.js"
+  ]
+}
